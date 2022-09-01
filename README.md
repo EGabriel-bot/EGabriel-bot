@@ -9,9 +9,12 @@
   <a href="https://instagram.com/aliasmobbed">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+    <a href="https://codepen.io/egabriel-bot">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
+  </a>
   
-  <a href="mailto:luiscolon0426@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
-  <a href='./LCR3.pdf'><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a>
+  <a href="mailto:egabriel0208@proton.me"><img src="https://img.shields.io/badge/EMAIL-purple?style=for-the-badge"></a>
+  <a href='./EGMD_resume.pdf'><img src="https://img.shields.io/badge/RESUME-forestgreen?style=for-the-badge"></a>
 </div>
 
 <h1 align="center">Hello! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "35"> I'm Eiden</h1>

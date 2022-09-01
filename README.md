@@ -1,5 +1,5 @@
 <div class=HeadSticker align="center">
-    <img src="https://media.giphy.com/media/1NYkJ0wTvncdXV5dN5/giphy.gif" width="400"/>
+    <img src="https://media.giphy.com/media/1NYkJ0wTvncdXV5dN5/giphy.gif" width="300"/>
 </div>
 
 <div id="badges" align="center">
@@ -24,7 +24,12 @@
 
 
 # 💫 About Me:
-📖 I’m currently Studying at Holberton School Puerto Rico.<br>🌎 Let's collaborate.<br>⚙️ Always looking for new technologies to work on.<br>✨ I'm interested in music, books and tv series.<br>📫 You can reach me at egabriel0208@proton.me<br>🤝 Feel free to connect with me.
+* 📖 I’m currently Studying at Holberton School Puerto Rico.<br>
+* 🌎 Let's collaborate.<br>
+* ⚙️ Always looking for new technologies to work on.<br>
+* ✨ I'm interested in music, books and tv series.<br>
+* 📫 You can reach me at egabriel0208@proton.me<br>
+* 🤝 Feel free to connect with me.
 
 # 💻 Languages:
 

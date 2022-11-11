@@ -24,7 +24,7 @@
 
 
 # 💫 About Me:
-* 📖 I’m currently Studying at Holberton School Puerto Rico.<br>
+* 📖 Graduated from Holberton School Puerto Rico foundations program.<br>
 * 🌎 Let's collaborate.<br>
 * ⚙️ Always looking for new technologies to work on.<br>
 * ✨ I'm interested in music, books and tv series.<br>

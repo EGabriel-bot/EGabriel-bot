@@ -1,5 +1,5 @@
 <div class=HeadSticker align="center">
-    <img src="https://media.giphy.com/media/1NYkJ0wTvncdXV5dN5/giphy.gif" pointer-events=none width="300"/>
+    <img src="https://media.giphy.com/media/1NYkJ0wTvncdXV5dN5/giphy.gif" width="300"/>
 </div>
 
 <div id="badges" align="center">
@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
     <a href="https://codepen.io/egabriel-bot">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"/>
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
   </a>
   
   <a href="mailto:egabriel0208@proton.me"><img src="https://img.shields.io/badge/EMAIL-purple?style=for-the-badge"></a>

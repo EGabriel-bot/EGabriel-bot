@@ -14,7 +14,7 @@
   </a>
   
   <a href="mailto:egabriel0208@proton.me"><img src="https://img.shields.io/badge/EMAIL-purple?style=for-the-badge"></a>
-  <a href='./EGMD_resume.pdf'><img src="https://img.shields.io/badge/RESUME-forestgreen?style=for-the-badge"></a>
+  <a href='./Eiden_Martinez_Davila_software_engineer-resume.pdf'><img src="https://img.shields.io/badge/RESUME-forestgreen?style=for-the-badge"></a>
 </div>
 
 <h1 align="center">Hello! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "35"> I'm Eiden</h1>

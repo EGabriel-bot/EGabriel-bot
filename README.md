@@ -6,9 +6,7 @@
   <a href="https://www.linkedin.com/in/emd07">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="https://codepen.io/egabriel-bot">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
-  </a>
+    
   
   <a href="mailto:egabriel0208@proton.me"><img src="https://img.shields.io/badge/EMAIL-purple?style=for-the-badge"></a>
   <a href='./Eiden_Martinez_Davila_software_engineer-resume.pdf'><img src="https://img.shields.io/badge/RESUME-forestgreen?style=for-the-badge"></a>
